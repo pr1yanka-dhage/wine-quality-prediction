@@ -28,6 +28,6 @@ The dataset contains physicochemical tests of red and white wines, along with a 
 Clone this repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/wine-quality-prediction.git
+git clone https://github.com/pr1yanka-dhage/wine-quality-prediction.git
 cd wine-quality-prediction
 pip install -r requirements.txt
